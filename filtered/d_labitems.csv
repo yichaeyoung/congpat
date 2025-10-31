@@ -1,0 +1,151 @@
+itemid,label,fluid,category
+50802,Base Excess,Blood,Blood Gas
+50803,"Calculated Bicarbonate, Whole Blood",Blood,Blood Gas
+50806,"Chloride, Whole Blood",Blood,Blood Gas
+50808,Free Calcium,Blood,Blood Gas
+50809,Glucose,Blood,Blood Gas
+50813,Lactate,Blood,Blood Gas
+50817,Oxygen Saturation,Blood,Blood Gas
+50818,pCO2,Blood,Blood Gas
+50820,pH,Blood,Blood Gas
+50821,pO2,Blood,Blood Gas
+50822,"Potassium, Whole Blood",Blood,Blood Gas
+50824,"Sodium, Whole Blood",Blood,Blood Gas
+50852,% Hemoglobin A1c,Blood,Chemistry
+50853,25-OH Vitamin D,Blood,Chemistry
+50854,Absolute A1c,Blood,Chemistry
+50855,Absolute Hemoglobin,Blood,Chemistry
+50856,Acetaminophen,Blood,Chemistry
+50861,Alanine Aminotransferase (ALT),Blood,Chemistry
+50862,Albumin,Blood,Chemistry
+50863,Alkaline Phosphatase,Blood,Chemistry
+50866,Ammonia,Blood,Chemistry
+50868,Anion Gap,Blood,Chemistry
+50878,Asparate Aminotransferase (AST),Blood,Chemistry
+50882,Bicarbonate,Blood,Chemistry
+50883,"Bilirubin, Direct",Blood,Chemistry
+50884,"Bilirubin, Indirect",Blood,Chemistry
+50885,"Bilirubin, Total",Blood,Chemistry
+50889,C-Reactive Protein,Blood,Chemistry
+50893,"Calcium, Total",Blood,Chemistry
+50902,Chloride,Blood,Chemistry
+50904,"Cholesterol, HDL",Blood,Chemistry
+50905,"Cholesterol, LDL, Calculated",Blood,Chemistry
+50906,"Cholesterol, LDL, Measured",Blood,Chemistry
+50907,"Cholesterol, Total",Blood,Chemistry
+50909,Cortisol,Blood,Chemistry
+50912,Creatinine,Blood,Chemistry
+50920,Estimated GFR (MDRD equation),Blood,Chemistry
+50924,Ferritin,Blood,Chemistry
+50927,Gamma Glutamyltransferase,Blood,Chemistry
+50930,Globulin,Blood,Chemistry
+50931,Glucose,Blood,Chemistry
+50952,Iron,Blood,Chemistry
+50964,"Osmolality, Measured",Blood,Chemistry
+50971,Potassium,Blood,Chemistry
+50976,"Protein, Total",Blood,Chemistry
+50983,Sodium,Blood,Chemistry
+50998,Transferrin,Blood,Chemistry
+51000,Triglycerides,Blood,Chemistry
+51005,Uptake Ratio,Blood,Chemistry
+51006,Urea Nitrogen,Blood,Chemistry
+51007,Uric Acid,Blood,Chemistry
+51066,24 hr Calcium,Urine,Chemistry
+51067,24 hr Creatinine,Urine,Chemistry
+51068,24 hr Protein,Urine,Chemistry
+51069,"Albumin, Urine",Urine,Chemistry
+51070,"Albumin/Creatinine, Urine",Urine,Chemistry
+51072,"Amylase, Urine",Urine,Chemistry
+51073,"Amylase/Creatinine Ratio, Urine",Urine,Chemistry
+51076,"Bicarbonate, Urine",Urine,Chemistry
+51077,"Calcium, Urine",Urine,Chemistry
+51078,"Chloride, Urine",Urine,Chemistry
+51080,Creatinine Clearance,Urine,Chemistry
+51081,"Creatinine, Serum",Urine,Chemistry
+51082,"Creatinine, Urine",Urine,Chemistry
+51084,"Glucose, Urine",Urine,Chemistry
+51087,Length of Urine Collection,Urine,Chemistry
+51091,"Myoglobin, Urine",Urine,Chemistry
+51093,"Osmolality, Urine",Urine,Chemistry
+51094,pH,Urine,Chemistry
+51095,"Phosphate, Urine",Urine,Chemistry
+51097,"Potassium, Urine",Urine,Chemistry
+51099,Protein/Creatinine Ratio,Urine,Chemistry
+51100,"Sodium, Urine",Urine,Chemistry
+51101,Total Collection Time,Urine,Chemistry
+51102,"Total Protein, Urine",Urine,Chemistry
+51104,"Urea Nitrogen, Urine",Urine,Chemistry
+51105,"Uric Acid, Urine",Urine,Chemistry
+51108,Urine Volume,Urine,Chemistry
+51109,"Urine Volume, Total",Urine,Chemistry
+51463,Bacteria,Urine,Hematology
+51466,Blood,Urine,Hematology
+51478,Glucose,Urine,Hematology
+51484,Ketone,Urine,Hematology
+51486,Leukocytes,Urine,Hematology
+51487,Nitrite,Urine,Hematology
+51491,pH,Urine,Hematology
+51492,Protein,Urine,Hematology
+51493,RBC,Urine,Hematology
+51494,RBC Casts,Urine,Hematology
+51495,RBC Clumps,Urine,Hematology
+51508,Urine Color,Urine,Hematology
+51509,Urine Comments,Urine,Hematology
+51510,"Urine Crystals, Other",Urine,Hematology
+51514,Urobilinogen,Urine,Hematology
+51516,WBC,Urine,Hematology
+51517,WBC Casts,Urine,Hematology
+51518,WBC Clumps,Urine,Hematology
+51624,Free Calcium,Blood,Chemistry
+51640,Hemoglobin,Blood,Chemistry
+51652,High-Sensitivity CRP,Blood,Chemistry
+51675,INR(PT),Blood,Chemistry
+51676,Insulin,Blood,Chemistry
+51691,MCV,Blood,Chemistry
+51701,"Osmolality, Calculated",Blood,Chemistry
+51739,Total CO2,Blood,Chemistry
+51977,"Creatinine, Blood",Urine,Chemistry
+51981,Glucose,Urine,Chemistry
+51984,Ketone,Urine,Chemistry
+51985,Leukocytes,Urine,Chemistry
+51986,Neisseria gonorrhoeae,Urine,Chemistry
+51987,Nitrite,Urine,Chemistry
+51992,Protein,Urine,Chemistry
+51996,Trichomonas vaginalis,Urine,Chemistry
+52002,Urobilinogen,Urine,Chemistry
+52037,WB tCO2,Blood,Blood Gas
+52069,Absolute Basophil Count,Blood,Hematology
+52073,Absolute Eosinophil Count,Blood,Hematology
+52074,Absolute Monocyte Count,Blood,Hematology
+52075,Absolute Neutrophil Count,Blood,Hematology
+52100,Clot Time,Blood,Hematology
+52164,PT Mean,Blood,Hematology
+52171,RBC Morphology,Blood,Hematology
+52187,Thrombin Time,Blood,Hematology
+52500,Anion Gap,Blood,Chemistry
+52535,Chloride,Blood,Chemistry
+52546,Creatinine,Blood,Chemistry
+52569,Glucose,Blood,Chemistry
+52610,Potassium,Blood,Chemistry
+52623,Sodium,Blood,Chemistry
+52647,Urea Nitrogen,Blood,Chemistry
+52703,"Albumin, Urine",Urine,Chemistry
+52730,pH,Urine,Chemistry
+52769,Absolute Lymphocyte Count,Blood,Hematology
+52786,Bleeding Time,Blood,Hematology
+52921,PT,Blood,Hematology
+52923,PTT,Blood,Hematology
+53084,Alanine Aminotransferase,Blood,Chemistry
+53085,Albumin,Blood,Chemistry
+53086,Alkaline Phosphatase,Blood,Chemistry
+53088,Asparate Aminotransferase,Blood,Chemistry
+53089,"Bilirubin, Total",Blood,Chemistry
+53093,Gamma Glutamyltranferase,Blood,Chemistry
+53154,Lactate,Blood,Chemistry
+53157,Absolute Lymphocyte Count,Blood,Chemistry
+53159,Absolute Neutrophil Count,Blood,Chemistry
+53161,Estimated GFR (CKD- EPI Refit),Blood,Chemistry
+53180,Estimated GFR (CKD- EPI 2021),Blood,Blood Gas
+53182,% Parasitemia,Blood,Hematology
+53188,Lymphocytes,Blood,Chemistry
+53189,Platelet Count,Blood,Chemistry

@@ -1,0 +1,52 @@
+﻿데이터 파일 위치,데이터 파일 이름,Field name,설명
+derived,APSIII,subject_id,
+derived,APSIII,hadm_id,
+derived,APSIII,stay_id,
+derived,APSIII,apsiii,환자 질환의 심각도를 평가하는 점수
+derived,bg,subject_id,
+derived,bg,hadm_id,
+derived,bg,po2,혈액 내 산소 분압
+derived,bg,pco2,혈액 내 이산화탄소 분압
+derived,bg,ph,혈액의 산성도를 나타내는 지수 → 신장의 기능과 관련이 있음
+derived,bg,base excess,혈액의 산성도에 영향을 미칠 수 있는 염기 물질 양
+derived,bg,bicarbonate,신체에서 주로 사용하는 buffer 역할의 물질로 신장의 역할과 관련
+derived,bg,totalco2,
+derived,chemistry,subject_id,
+derived,chemistry,hadm_id,
+derived,chemistry,albumin,현재 몸의 염증이 있거나 이상이 있음을 시사하는 지표
+derived,chemistry,aniongap,몸의 이온 전위차를 나타내는 지표
+derived,chemistry,bun,신장 기능과 관련된 지표
+derived,chemistry,calcium,전해질 중 일부
+derived,chemistry,chloride,전해질 중 일부로 주로 산성도 관련 작용에 역할
+derived,chemistry,glucose,당이 높은 경우 재입원의 위험이 높아질 수 있음 (당뇨와 연관)
+derived,chemistry,sodium,전해질 중 일부 (기본적으로 검사하는 전해질 중 하나)
+derived,chemistry,potassium,"전해질 중 일부이며 AKI(급성신부전, 급성으로 신장 기능이 저하되는 것)시 상승"
+derived,complete blood count,subject_id,
+derived,complete blood count,hadm_id,
+derived,complete blood count,hematocrit,혈액에서 적혈구의 비율(%)
+derived,complete blood count,hemoglobin,혈액 내 적혈구에 있으며 산소를 운반하는 역할을 수행
+derived,complete blood count,platelet,혈소판
+derived,complete blood count,rbc,적혈구
+derived,complete blood count,wbc ,백혈구: 감염이 있는 경우 상승함
+derived,creatinine baseline,hadm_id,
+derived,creatinine baseline,ckd,만성신질환: 동반질환 변수와 겹치는 부분으로 크로스체크 용도 정도로 사용
+derived,creatinine baseline,mdrd_est,신장의 사구체여과율(GFR)을 계산하는 방법으로 신장의 기능 정도를 수치적으로 나타냄
+derived,creatinine baseline,scr_baseline,환자의 크레아틴(creatinine) 기저 수치를 나타내는 것으로 상승 시 기준점으로 활용
+derived,crrt,,해당 데이터셋에 값이 있는지 여부만 확인
+derived,enzyme,subject_id,
+derived,enzyme,hadm_id,
+derived,enzyme,alt,간 기능 관련 수치 → 정상/비정상만 판단
+derived,enzyme,alp,담도계 관련 수치 → 정상/비정상만 판단
+derived,enzyme,ast,간 기능 관련 수치 → 정상/비정상만 판단
+derived,enzyme,bilirubin_total,간 기능 관련 수치(황달) → 정상/비정상만 판단
+derived,enzyme,bilirubin_direct,간 기능 관련 수치(황달) → 정상/비정상만 판단
+derived,enzyme,bilirubin_indirect,간 기능 관련 수치(황달) → 정상/비정상만 판단
+derived,enzyme,ggt,담도계 관련 수치 → 정상/비정상만 판단
+derived,inflammation,subject_id,
+derived,inflammation,hadm_id,
+derived,inflammation,crp,급성 염증이 있을 때 상승하는 수치
+derived,kdigo_creatinine,hadm_id,
+derived,kdigo_creatinine,stay_id,
+derived,kdigo_creatinine,creat,신장 기능과 관련된 지표로 18번째 줄에 있는 bun과 같이 쓰이는 경우가 많음
+derived,kdigo_stages,stay_id,
+derived,kdigo_stages,urineoutput_24hr,24시간 소변량

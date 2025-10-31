@@ -1,0 +1,33 @@
+﻿icd_code,icd_version,long_title
+25000,9,"Diabetes mellitus without mention of complication, type II or unspecified type, not stated as uncontrolled"
+25001,9,"Diabetes mellitus without mention of complication, type I [juvenile type], not stated as uncontrolled"
+25002,9,"Diabetes mellitus without mention of complication, type II or unspecified type, uncontrolled"
+25003,9,"Diabetes mellitus without mention of complication, type I [juvenile type], uncontrolled"
+E10,10,Type 1 Diabetes Mellitus
+E102,10,Type 1 DM with kidney complications
+E1022,10,Type 1 DM with diabetic chronic kidney disease
+E1029,10,Type 1 DM with other diabetic kidney complication
+E11,10,Type 2 diabetes mellitus
+E112,10,Type 2 diabetes mellitus with kidney complications
+E1122,10,Type 2 diabetes mellitus with diabetic chronic kidney disease
+E1129,10,Type 2 diabetes mellitus with other diabetic kidney complication
+E13,10,Other specified diabetes mellitus
+E132,10,Other specified diabetes mellitus with kidney complications
+E1322,10,Other specified diabetes mellitus with diabetic chronic kidney disease
+E1329,10,Other specified diabetes mellitus with other diabetic kidney complication
+5851,9,"Chronic Kidney Disease, stage 1"
+5852,9,"Chronic kidney disease, Stage II (mild)"
+5853,9,"Chronic kidney disease, Stage III (moderate)"
+5854,9,"Chronic kidney disease, Stage IV (severe)"
+5855,9,"Chronic kidney disease, Stage V"
+5859,9,"Chronic kidney disease, unspecified"
+N18,10,Chronic kidney disease (CKD)
+N181,10,"Chronic kidney disease, stage 1"
+N182,10,"Chronic kidney disease, stage 2 (mild)"
+N183,10,"Chronic kidney disease, stage 3 (moderate)"
+N1830,10,"Chronic kidney disease, stage 3 unspecified"
+N1831,10,"Chronic kidney disease, stage 3a"
+N1832,10,"Chronic kidney disease, stage 3b"
+N184,10,"Chronic kidney disease, stage 4 (severe)"
+N185,10,"Chronic kidney disease, stage 5"
+N189,10,"Chronic kidney disease, unspecified"
