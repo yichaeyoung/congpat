@@ -2,6 +2,9 @@
 
 ## SW시스템설계및개발II "콩콩팥팥"입니다!
 
+# 1. 폴더 구조
+
+```plaintext
 sw/
 ├── createcsv/              #
 │   ├── create.py           #
@@ -27,3 +30,4 @@ sw/
 ├── web/                     #
 │   └── test_v5.py           #
 └── README.md                # 프로젝트 개요 및 사용법
+```
