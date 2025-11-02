@@ -36,7 +36,6 @@ filtered/
 model/highperf_best_exp_final.pt
 
 # === Common large files ===
-*.csv
 *.tsv
 *.parquet
 *.npy
