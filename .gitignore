@@ -1,0 +1,52 @@
+cat > .gitignore << 'EOF'
+# === OS / IDE ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# === Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.venv/
+.env
+.ipynb_checkpoints/
+
+# === Logs / outputs ===
+logs/
+outputs/
+wandb/
+tensorboard/
+*.log
+
+# === Models / checkpoints ===
+model/checkpoints/
+model/weights/
+*.pt
+*.pth
+*.h5
+*.onnx
+
+# === Large data (원본/중간 산출물) ===
+mimic-iv-3.1/
+filtered/
+model/highperf_best_exp_final.pt
+
+# === Common large files ===
+*.csv
+*.tsv
+*.parquet
+*.npy
+*.npz
+*.zip
+*.tar
+*.gz
+*.mp4
+
+# === keep placeholder (빈 폴더 유지하고 싶을 때) ===
+!.gitkeep
+
+EOF
